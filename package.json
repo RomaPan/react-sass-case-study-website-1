@@ -33,6 +33,7 @@
     ]
   },
   "devDependencies": {
-    "gsap": "^3.2.6"
+    "gsap": "^3.2.6",
+    "react-router-dom": "^5.2.0"
   }
 }
